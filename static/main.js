@@ -1,3 +1,4 @@
+import './aliveTime.js'; import {loadOml2d} from './oh-my-live2d/dist/index.js';
 console.log(
   `
   %c KZHomePage v1.2.0 Modified by LateDream %c https://latedream.us.kg/LateDream/
@@ -31,3 +32,25 @@ btn.addEventListener('click', (e) => {
     btn.classList.toggle('clicked');
   }, 400);
 });})()
+
+const oml2d = loadOml2d({
+  models: [{
+    path: 'https://model.oml2d.com/kobayaxi/model.json',
+    position: [0, 200],
+    scale: 0.2,
+    stageStyle: {
+      position: 'fixed',
+      right: 0,
+      left: 'unset',
+      height: 450
+    }
+  }]
+});
+
+oml2d.onStageSlideIn(() => {
+  oml2d.tipsMessage(
+    `欢迎来到LateDream的主页！`,
+    4000,
+    10
+  );
+});

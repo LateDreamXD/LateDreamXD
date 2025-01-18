@@ -40,7 +40,7 @@ a:visited {
 	color: #ff6;
 }
 body {
-	font-family: "ZCool Happy", sans-serif;
+	font-family: "ZCool Happy", system-ui, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;

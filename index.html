@@ -6,13 +6,12 @@
 		<meta name="description" content="迟梦的个人的主页" />
 		<meta name="keywords" content="XiaozhiSans, LateDream, 迟来的梦, 迟梦" />
 		<meta name="author" content="LateDream" />
-		<link rel="preconnect" type="preconnect" href="https://cdn.bootcdn.net/ajax/" />
-		<link rel="stylesheet" type="text/css" href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
-		<link rel="stylesheet" type="text/css" href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+		<link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css" integrity="sha512-jnSuA4Ss2PkkikSOLtYs8BlYIeeIK1h99ty4YfvRPAlzr377vr3CXDb7sb7eEEBYjDtcYj+AjBH3FLv5uSJuXg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 		<link rel="stylesheet" type="text/css" href="./static/style.css" />
 		<link rel="stylesheet" type="text/css" href="./static/misc.css" />
-		<link rel="stylesheet" type="text/css" href="https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.css" />
-		<script type="text/javascript" src="https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.js"></script>
+		<link rel="stylesheet" href="https://s4.zstatic.net/ajax/libs/aplayer/1.10.1/APlayer.min.css" integrity="sha512-CIYsJUa3pr1eoXlZFroEI0mq0UIMUqNouNinjpCkSWo3Bx5NRlQ0OuC6DtEB/bDqUWnzXc1gs2X/g52l36N5iw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<script src="https://s4.zstatic.net/ajax/libs/aplayer/1.10.1/APlayer.min.js" integrity="sha512-RWosNnDNw8FxHibJqdFRySIswOUgYhFxnmYO3fp+BgCU7gfo4z0oS7mYFBvaa8qu+axY39BmQOrhW3Tp70XbaQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	</head>
 
 	<body>
@@ -22,16 +21,20 @@
 			<div class="row my-card justify-content-center">
 				<div class="col-lg-4 photo-bg" onclick=""></div>
 				<div class="col-lg-8 card">
-				<!-- 大标题 -->
+				<div style="display: inline-flex; align-items: center;">
 					<h1>迟来的梦</h1>
-					<!-- 标题下的一段话 -->
-					<p>来之不易的 一定要好好把握</p>
+					<ul class="social mt-1">
+						<li><a title="GitHub" href="https://github.com/LateDreamXD" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github" style="color: black;"></i></a></li>
+						<li><a title="BiliBili" href="https://space.bilibili.com/1988506301" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-bilibili" style="color: hotpink;"></i></a></li>
+						<li><a title="QQ" href="https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-qq" style="color: deepskyblue;"></i></a></li>
+					</ul>
+				</div>
+					<p>我的青春物语果然有问题 24岁清纯男高不会梦到服务器女玩家</p>
 					<span><a href="https://hitokoto.cn/?uuid=9bd60ed7-e50e-4a00-a07f-b8168e5c3cfb" id="hitokoto_text" title="我的青春恋爱物语果然有问题" target="_blank" rel="noopener noreferrer">孤独的人不会伤害别人，只会不断地伤害自己罢了。</a><a class="icon-btn" href="#refresh_hitokoto" id="refresh_hitokoto" title="再来一句" style="margin-left: 1em;"><i class="fa-solid fa-rotate-right"></i></a></span>
-					<div class="container-fluid">
-						<div class="row">
-							<!-- 导航按钮组 -->
+					<div class="container-fluid" style="margin-top: 1.2em; margin-bottom: 1.2em;">
+						<div class="row" style="justify-content: space-evenly;">
 							<a href="https://latedream.us.kg/" target="_blank" rel="noopener noreferrer" class="kz-nav-btn btn btn-primary col-lg-4">
-								<span>迟梦阁</span>
+								<span>夜长梦晚</span>
 							</a>
 							<a href="https://latedream.us.kg/ba/" target="_blank" rel="noopener noreferrer" class="kz-nav-btn btn btn-secondary col-lg-4">
 								<span>生成蔚蓝档案标题</span>
@@ -39,19 +42,15 @@
 							<a href="mailto:xiaozhisans@qq.com" class="kz-nav-btn btn btn-success col-lg-4">
 								<span>给我发邮件</span>
 							</a>
-
-						<!-- end 导航按钮组 -->
+							<a href="https://latedream.us.kg/atom.xml" target="_blank" rel="noopener noreferrer" class="kz-nav-btn btn btn-warning col-lg-4">
+								<span style="color: #0d6efd;">订阅更新</span>
+							</a>
 						</div>
 					</div>
-					<ul class="social mt-1">
-						<li><a title="GitHub" href="https://github.com/latedreamdev" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github" style="color: black;"></i></a></li>
-						<li><a title="BiliBili" href="https://space.bilibili.com/1988506301" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-bilibili" style="color: hotpink;"></i></a></li>
-						<li><a title="QQ" href="https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-qq" style="color: deepskyblue;"></i></a></li>
-					</ul>
 
 					<footer>
 						<p>
-							Copyright (c) 2024 <a href="https://github.com/latedreamdev" target="_blank" rel="noopener noreferrer">LateDream</a> | <a href="https://music.zhheo.com/?id=9308722369&server=tencent" target="_blank" rel="noopener noreferrer">去听我的歌单</a> | <a href="https://icp.gov.moe/?keyword=20241144" target="_blank" rel="noopener noreferrer">萌ICP备20241144号</a>
+							Copyright (c) 2024 LateDream | <a href="https://music.zhheo.com/?id=9308722369&server=tencent" target="_blank" rel="noopener noreferrer">去听我的歌单</a> | <a href="https://icp.gov.moe/?keyword=20241144" target="_blank" rel="noopener noreferrer">萌ICP备20241144号</a>
 							<br>Powered by <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">Vercel</a> | Theme: <a href="https://github.com/kaygb/KZHomePage" target="_blank" rel="noopener noreferrer">KZHomePage</a>(Modified) | 存活时间：<i id="alive-time">Loading...</i>
 						</p>
 					</footer>
@@ -63,9 +62,8 @@
 
 		<meting-js autoplay="false" server="tencent" type="playlist" id="9308722369" order="random" fixed="true" theme="#000"></meting-js>
 
-		<script type="text/javascript" src="https://cdn.bootcdn.net/ajax/libs/meting/2.0.1/Meting.min.js"></script>
+		<script src="https://s4.zstatic.net/ajax/libs/meting/2.0.1/Meting.min.js" integrity="sha512-/IDbuuVE9yEqGRO0rCzXN1jIU1ZFkVd3TMLuK3HkmD4fCCwoIAkrqcK8KPYcIMDF/Z/pQ2mMOTPYS07qM/7VsA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-		<script src="./static/main.js"></script>
-		<script type="text/javascript" src="./static/aliveTime.js"></script>
+		<script type="module" src="./static/main.js"></script>
 	</body>
 </html>
