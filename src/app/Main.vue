@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import {ref, onBeforeMount} from 'vue';
 
-const socials = ref([]);
+const socials = ref([] as any[]);
 onBeforeMount(async() => {
 	const res = await fetch('/static/social.json');
 	socials.value = await res.json();
