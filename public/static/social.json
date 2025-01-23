@@ -1,0 +1,74 @@
+[
+	{
+		"platform": "rss",
+		"icon": "rss",
+		"icontype": "fas",
+		"url": "https://latedream.us.kg/atom.xml",
+		"username": "订阅博客更新"
+	},
+	{
+		"platform": "namemc",
+		"icon": "https://s.namemc.com/img/favicon-16.png",
+		"icontype": "img",
+		"url": "https://zh-cn.namemc.com/profile/LateDream",
+		"username": "LateDream"
+	},
+	{
+		"_show": false,
+		"platform": "gitee",
+		"icon": "gitee",
+		"icontype": "fab",
+		"url": "https://gitee.com/latedream",
+		"username": "晚梦"
+	},
+	{
+		"platform": "github",
+		"icon": "github",
+		"icontype": "fab",
+		"url": "https://github.com/LateDreamXD",
+		"username": "LateDreamXD"
+	},
+	{
+		"platform": "steam",
+		"icon": "steam",
+		"icontype": "fab",
+		"url": "https://steamcommunity.com/id/LateDream",
+		"username": "LateDream"
+	},
+	{
+		"platform": "xboxlive",
+		"icon": "xbox",
+		"icontype": "fab",
+		"url": "https://www.xbox.com/zh-CN/play/user/XiaozhiSans",
+		"username": "XiaozhiSans"
+	},
+	{
+		"platform": "bilibili",
+		"icon": "bilibili",
+		"icontype": "fab",
+		"uid": "1988506301",
+		"url": "https://space.bilibili.com/1988506301",
+		"username": "LateDream_"
+	},
+	{
+		"platform": "qq",
+		"icon": "qq",
+		"icontype": "fab",
+		"username": "3276839942",
+		"url": "https://qm.qq.com/cgi-bin/qm/qr?k=KKfdiq4HiNSB5qO5kMM2g6MJ5deWrh_u&jump_from=latedream.us.kg"
+	},
+	{
+		"_show": false,
+		"platform": "email",
+		"icon": "envelope",
+		"icontype": "fas",
+		"url": "mailto:xiaozhisans@qq.com"
+	},
+	{
+		"platform": "discord",
+		"icon": "discord",
+		"icontype": "fab",
+		"url": "https://discord.gg/rFnKTUT7ab",
+		"username": "latedream"
+	}
+]

@@ -1,6 +1,6 @@
 {
   "name": "about-latedream",
-  "version": "0.1.0",
+  "version": "0.1.1-pre1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -12,22 +12,20 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "sntp": "^3.0.2",
+    "aplayer": "^1.10.1",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "vue-toastification": "^2.0.0-rc.5"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
     "@types/node": "^22.10.7",
-    "@types/sntp": "^3",
     "@types/vue": "^2.0.0",
     "@vitejs/plugin-vue": "^5.2.1",
     "@vue/tsconfig": "^0.7.0",
     "npm-run-all2": "^7.0.2",
     "sass-embedded": "^1.83.4",
     "typescript": "~5.6.3",
-    "vite": "^6.0.5",
-    "vite-plugin-vue-devtools": "^7.6.8",
+    "vite": "^6.0.11",
     "vue-tsc": "^2.1.10"
   },
   "packageManager": "yarn@4.6.0"
