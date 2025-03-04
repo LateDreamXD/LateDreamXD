@@ -11,7 +11,7 @@
 ### 开发环境 &emsp;&emsp;&emsp;&emsp;&emsp;
 
 [<img title="Windows 11" alt="Windows 11" src="res/win11.png" height="32" />](https://www.microsoft.com/en-us/software-download/windows11)
-[<img title="Visual Studio Code" alt="Visual Studio Code" src="res/vscode.png" height="32" />](https://code.visualstudio.com/download)
+[<img title="Visual Studio Code" alt="Visual Studio Code" src="res/vscode.png" height="40" />](https://code.visualstudio.com/download)
 [<img title="Microsoft Edge" alt="Microsoft Edge" src="res/msedge.png" height="32" />](https://www.microsoft.com/en-us/edge/download)
 [<img title="Node.js" alt="Node.js" src="https://nodejs.org/static/images/favicons/favicon.png" height="32" />](https://nodejs.org/en/download)
 [<img title="Yarn" alt="Yarn" src="https://yarnpkg.com/img/yarn-favicon.svg" height="32" />](https://yarnpkg.com/)
