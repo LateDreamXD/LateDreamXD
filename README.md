@@ -6,8 +6,8 @@
 
 #### 你是第 <img src="https://count.getloli.com/@latedream?name=latedream&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" height="48" /> 位访客! ❤️
 
-<img src="https://github-readme-stats.vercel.app/api?username=LostDreamQwQ&theme=tokyonight&count_private=true&locale=cn" width="300" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostDreamQwQ&theme=tokyonight&count_private=true&locale=cn&layout=compact" width="300" height="130" /><br /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=LateDreamXD&theme=tokyonight&count_private=true&locale=cn" width="300" height="130" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LateDreamXD&theme=tokyonight&count_private=true&locale=cn&layout=compact" width="300" height="130" /><br /><br />
 
 
 <div width="600">
