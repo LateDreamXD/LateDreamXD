@@ -1,1 +1,1 @@
-404 Not Found
+![404](./res/404.webp)
