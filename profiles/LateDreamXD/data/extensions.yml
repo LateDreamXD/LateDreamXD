@@ -1,0 +1,105 @@
+disabled:
+  - id: Alibaba-Cloud.tongyi-lingma
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
+enabled:
+  - id: adpyke.codesnap
+    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
+  - id: adpyke.vscode-userscript
+    uuid: 4307119f-984e-4e26-a7b8-1facbdc9ef63
+  - id: arcanis.vscode-zipfs
+    uuid: b14d47f6-5230-4a65-9366-82edc70d5dfd
+  - id: be5invis.vscode-custom-css
+    uuid: 1b160753-ae5e-42bb-82ad-d115ce5c10f4
+  - id: bierner.github-markdown-preview
+    uuid: 9f5a5fc9-8b23-4484-85c4-1438b82d8634
+  - id: bierner.markdown-checkbox
+    uuid: b0db4123-c5d9-4f45-bd2e-70738ebbb304
+  - id: bierner.markdown-emoji
+    uuid: f595c9c1-28b5-415e-a55f-2deb4a8c3abd
+  - id: bierner.markdown-footnotes
+    uuid: 8c379296-feca-4544-853d-f085a1fc638f
+  - id: bierner.markdown-mermaid
+    uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: bierner.markdown-yaml-preamble
+    uuid: b872af63-f9e1-438e-9462-0315abe9d3aa
+  - id: BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension
+    uuid: c7116c26-3165-448e-9d2f-a19a47fcc061
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: destruc7i0n.vscode-bedrock-definitions
+    uuid: 82814bf4-0185-4a2e-a653-299b2882c3e1
+  - id: EbenezerDon.license-pilot
+    uuid: 8ed0f77c-9057-49f1-8421-5efa7736fecf
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: eserozvataf.one-dark-pro-monokai-darker
+    uuid: 955e2d23-279c-44e2-81e1-ed2d3df7cec9
+  - id: FittenTech.Fitten-Code
+    uuid: c21155b2-e67d-4bcf-bc8c-02a73adee5f3
+  - id: frenco.vscode-vercel
+    uuid: 0b352398-8410-443c-bd04-f5420bfb0f56
+  - id: GitHub.remotehub
+    uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
+  - id: github.vscode-github-actions
+    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+  - id: GitHub.vscode-pull-request-github
+    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
+  - id: glenn2223.live-sass
+    uuid: 137c3643-510d-4a1f-a737-793c72e8b411
+  - id: jackz.unicode-conversion
+    uuid: 26122261-52d4-4b33-ace2-209933b5a591
+  - id: jock.svg
+    uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
+  - id: josee9988.minifyall
+    uuid: 0be0c393-8fd2-4ff8-9c13-e2789b45fc59
+  - id: Legend077.json-ui-auto-completions
+    uuid: 593d943d-bed8-4631-bda2-030d154808cc
+  - id: Levertion.mcjson
+    uuid: 947bce79-d06c-4483-a0cc-7f3257259c6b
+  - id: michelemelluso.code-beautifier
+    uuid: 8a0c151b-eb13-4bed-9d49-4a252a118a0c
+  - id: miguelsolorio.fluent-icons
+    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
+  - id: MinecraftCommands.syntax-mcfunction
+    uuid: e03944ff-2185-4ada-a557-9a1038ed7c02
+  - id: mrmlnc.vscode-json5
+    uuid: d6c6d30c-10a6-42fe-85ec-41dcb313349d
+  - id: ms-vscode.azure-repos
+    uuid: 25cfa506-1433-4595-a73f-61666807126d
+  - id: ms-vscode.remote-repositories
+    uuid: cf5142f0-3701-4992-980c-9895a750addf
+  - id: netcorext.uuid-generator
+    uuid: 802d93e3-0926-4d33-8408-b00d92d6cd0c
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: redjue.git-commit-plugin
+    uuid: 04270998-5ec4-47ab-abad-46e2d14ee590
+  - id: ritwickdey.LiveServer
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+  - id: shalldie.background
+    uuid: dee8df91-b82e-4d4c-a99a-872360b1d015
+    version: 2.0.10
+  - id: Stevertus.mcscript
+    uuid: 475608e0-5134-47b4-860b-0cc34058b8f8
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: stylelint.vscode-stylelint
+    uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
+  - id: tamasfe.even-better-toml
+    uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
+  - id: Tyriar.windows-terminal
+    uuid: bd2717ee-cfa2-41ee-b3fd-b093918122da
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: yahyabatulu.vscode-markdown-alert
+    uuid: e5cde583-6820-4650-8e80-15582604c939
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: zz5840.minecraft-lang-colorizer
+    uuid: 4791e843-7567-48c4-861f-2facdd99bdbe

@@ -1,0 +1,9 @@
+{
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.mouseWheelZoom": true,
+  "editor.insertSpaces": false,
+  "microsoft-authentication.implementation": "msal-no-broker",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "material-icon-theme",
+}
