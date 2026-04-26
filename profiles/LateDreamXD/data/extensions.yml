@@ -1,15 +1,11 @@
 disabled:
   - id: Alibaba-Cloud.tongyi-lingma
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: GitHub.copilot-chat
-    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
+  - id: Levertion.mcjson
+    uuid: 947bce79-d06c-4483-a0cc-7f3257259c6b
 enabled:
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
-  - id: adpyke.vscode-userscript
-    uuid: 4307119f-984e-4e26-a7b8-1facbdc9ef63
-  - id: arcanis.vscode-zipfs
-    uuid: b14d47f6-5230-4a65-9366-82edc70d5dfd
   - id: be5invis.vscode-custom-css
     uuid: 1b160753-ae5e-42bb-82ad-d115ce5c10f4
   - id: bierner.github-markdown-preview
@@ -28,24 +24,14 @@ enabled:
     uuid: b872af63-f9e1-438e-9462-0315abe9d3aa
   - id: BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension
     uuid: c7116c26-3165-448e-9d2f-a19a47fcc061
-  - id: dbaeumer.vscode-eslint
-    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: destruc7i0n.vscode-bedrock-definitions
     uuid: 82814bf4-0185-4a2e-a653-299b2882c3e1
   - id: EbenezerDon.license-pilot
     uuid: 8ed0f77c-9057-49f1-8421-5efa7736fecf
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
-  - id: esbenp.prettier-vscode
-    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: eserozvataf.one-dark-pro-monokai-darker
-    uuid: 955e2d23-279c-44e2-81e1-ed2d3df7cec9
   - id: FittenTech.Fitten-Code
     uuid: c21155b2-e67d-4bcf-bc8c-02a73adee5f3
-  - id: frenco.vscode-vercel
-    uuid: 0b352398-8410-443c-bd04-f5420bfb0f56
-  - id: GitHub.remotehub
-    uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: GitHub.vscode-pull-request-github
@@ -56,12 +42,8 @@ enabled:
     uuid: 26122261-52d4-4b33-ace2-209933b5a591
   - id: jock.svg
     uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
-  - id: josee9988.minifyall
-    uuid: 0be0c393-8fd2-4ff8-9c13-e2789b45fc59
   - id: Legend077.json-ui-auto-completions
     uuid: 593d943d-bed8-4631-bda2-030d154808cc
-  - id: Levertion.mcjson
-    uuid: 947bce79-d06c-4483-a0cc-7f3257259c6b
   - id: michelemelluso.code-beautifier
     uuid: 8a0c151b-eb13-4bed-9d49-4a252a118a0c
   - id: miguelsolorio.fluent-icons
@@ -70,8 +52,6 @@ enabled:
     uuid: e03944ff-2185-4ada-a557-9a1038ed7c02
   - id: mrmlnc.vscode-json5
     uuid: d6c6d30c-10a6-42fe-85ec-41dcb313349d
-  - id: ms-vscode.azure-repos
-    uuid: 25cfa506-1433-4595-a73f-61666807126d
   - id: ms-vscode.remote-repositories
     uuid: cf5142f0-3701-4992-980c-9895a750addf
   - id: netcorext.uuid-generator
@@ -87,10 +67,6 @@ enabled:
     version: 2.0.10
   - id: Stevertus.mcscript
     uuid: 475608e0-5134-47b4-860b-0cc34058b8f8
-  - id: streetsidesoftware.code-spell-checker
-    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
-  - id: stylelint.vscode-stylelint
-    uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: Tyriar.windows-terminal

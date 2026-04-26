@@ -3,8 +3,24 @@
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.mouseWheelZoom": true,
   "editor.insertSpaces": false,
-  "microsoft-authentication.implementation": "msal-no-broker",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "material-icon-theme",
   "editor.minimap.enabled": false,
+  "microsoft-authentication.implementation": "msal-no-broker",
+  "background.fullscreen": {
+    "images": [
+      "D:\\Pictures\\shiroko.jpg"
+    ],
+    "opacity": 0.1,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  },
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/LateDream/.vscode/custom.css"
+  ],
+  "fittencode.languagePreference.displayPreference": "zh-cn",
+  "fittencode.languagePreference.commentPreference": "zh-cn",
+  "terminal.integrated.tabs.defaultIcon": "console",
 }
