@@ -6,4 +6,5 @@
   "microsoft-authentication.implementation": "msal-no-broker",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
 }
