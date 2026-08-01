@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-4-blue?style=flat)
 
@@ -48,24 +48,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      10 hrs 34 mins      ████████████░░░░░░░░░░░░░   49.63 % 
-JavaScript               2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JSON                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-TypeScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Go                       1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Vue                      3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+JavaScript               2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Go                       1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 编辑器: 
-VS Code                  21 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tab                 15 hrs 55 mins      ███████████████████░░░░░░   74.76 % 
-moekoe-lite              2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-MCiSEE                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-moekoe-music-nightly-buil32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-MoeKoeMusic              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+late-tab                 5 hrs 48 mins       █████████████░░░░░░░░░░░░   52.33 % 
+moekoe-lite              2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+MCiSEE                   2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+moekoe-music-nightly-buil32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+MoeKoeMusic              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 操作系统: 
-Windows                  21 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +87,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 01:31:00 UTC
+ Last Updated on 01/08/2026 01:31:39 UTC
 <!--END_SECTION:waka-->
