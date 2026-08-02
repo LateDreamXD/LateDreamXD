@@ -48,24 +48,23 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
-JavaScript               2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Go                       1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Vue                      3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+JSON                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+TypeScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+JavaScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tab                 5 hrs 48 mins       █████████████░░░░░░░░░░░░   52.33 % 
-moekoe-lite              2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-MCiSEE                   2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-moekoe-music-nightly-buil32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-MoeKoeMusic              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+late-tab                 5 hrs 48 mins       █████████████████░░░░░░░░   68.87 % 
+moekoe-lite              1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+moekoe-music-nightly-buil32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+MoeKoeMusic              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 操作系统: 
-Windows                  11 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +86,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 01:31:39 UTC
+ Last Updated on 02/08/2026 01:28:55 UTC
 <!--END_SECTION:waka-->
