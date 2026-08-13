@@ -3,9 +3,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-565.84%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
@@ -48,21 +48,20 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Go                       2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.72 % 
-Vue                      1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-JavaScript               1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Go                       2 hrs 13 mins       ███████████████░░░░░░░░░░   59.85 % 
+JavaScript               55 mins             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-moekoe-lite              4 hrs 13 mins       █████████████████░░░░░░░░   68.17 % 
-MoeKoeMusic              1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   31.83 % 
+moekoe-lite              3 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +83,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 00:57:40 UTC
+ Last Updated on 13/08/2026 00:58:28 UTC
 <!--END_SECTION:waka-->
