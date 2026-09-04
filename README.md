@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦  使用了 98.1 kB GitHub 存储空间 
  > 
-> 🏆 579 个贡献，在 2026 年
+> 🏆 580 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -48,24 +48,25 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               6 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
-Vue                      5 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.12 % 
-JSON                     2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TypeScript               6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
+Vue                      5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+JavaScript               3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+JSON                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 编辑器: 
-VS Code                  16 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 18 mins      █████████████████████████   99.83 % 
+Trae                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 项目: 
-moekoe-simple-sync       6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.34 % 
-latedream                4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-moekoe-blue_archive-theme4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-MoeKoeMusic              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-moekoe-lite              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+moekoe-simple-sync       6 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+latedream                4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+moekoe-blue_archive-theme4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+moekoe-lite              2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+src                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 💻 操作系统: 
-Windows                  16 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +88,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 01:49:38 UTC
+ Last Updated on 04/09/2026 01:43:35 UTC
 <!--END_SECTION:waka-->
