@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,21 +48,21 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.95 % 
-JavaScript               2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Go                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Vue                      7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.90 % 
+JavaScript               2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+TypeScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Go                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🔥 编辑器: 
 VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tools               7 hrs 17 mins       █████████████░░░░░░░░░░░░   51.15 % 
-MoeKoeMusic              3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-moekoe-lite              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-moekoe-simple-download   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+late-tools               7 hrs 17 mins       █████████████░░░░░░░░░░░░   51.09 % 
+MoeKoeMusic              3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+moekoe-lite              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+moekoe-simple-download   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 操作系统: 
 Windows                  14 hrs 16 mins      █████████████████████████   100.00 % 
@@ -87,5 +87,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 02:49:57 UTC
+ Last Updated on 02/10/2026 02:53:35 UTC
 <!--END_SECTION:waka-->
