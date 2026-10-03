@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,24 +48,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.90 % 
-JavaScript               2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-TypeScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Go                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Vue                      6 hrs 58 mins       ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+TypeScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Go                       1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tools               7 hrs 17 mins       █████████████░░░░░░░░░░░░   51.09 % 
-MoeKoeMusic              3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-moekoe-lite              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-moekoe-simple-download   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+late-tools               7 hrs 17 mins       █████████████░░░░░░░░░░░░   52.31 % 
+MoeKoeMusic              3 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+moekoe-lite              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+moekoe-simple-download   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 操作系统: 
-Windows                  14 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +87,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 02:53:35 UTC
+ Last Updated on 03/10/2026 02:39:32 UTC
 <!--END_SECTION:waka-->
