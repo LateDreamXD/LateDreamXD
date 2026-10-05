@@ -48,22 +48,22 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      6 hrs 43 mins       █████████████████░░░░░░░░   66.19 % 
-TypeScript               1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+TypeScript               1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
+Vue                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.90 % 
+JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tools               8 hrs 25 mins       █████████████████████░░░░   82.85 % 
-moekoe-simple-download   1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+moekoe-simple-download   1 hr 26 mins        ████████████░░░░░░░░░░░░░   48.36 % 
+late-tools               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.56 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 
 💻 操作系统: 
-Windows                  10 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +85,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 03:11:23 UTC
+ Last Updated on 05/10/2026 02:44:30 UTC
 <!--END_SECTION:waka-->
