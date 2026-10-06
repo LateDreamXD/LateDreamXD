@@ -48,22 +48,23 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
-Vue                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.90 % 
-JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.29 % 
+Vue                      1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.31 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-moekoe-simple-download   1 hr 26 mins        ████████████░░░░░░░░░░░░░   48.36 % 
-late-tools               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.56 % 
-Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+moekoe-simple-download   1 hr 26 mins        █████████████░░░░░░░░░░░░   52.83 % 
+late-tools               1 hr 14 mins        ███████████░░░░░░░░░░░░░░   45.40 % 
+MoeKoeMusic              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 操作系统: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -76,8 +77,8 @@ No AI Coding Activity Tracked This Week
 
 ```text
 TypeScript               29 repos            █████████░░░░░░░░░░░░░░░░   37.66 % 
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Vue                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Vue                      15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 NSIS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
@@ -85,5 +86,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 02:44:30 UTC
+ Last Updated on 06/10/2026 03:36:52 UTC
 <!--END_SECTION:waka-->
