@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
@@ -48,21 +48,20 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      1 hr 21 mins        █████████████████████░░░░   82.55 % 
-TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Vue                      20 mins             █████████████████████░░░░   84.49 % 
+JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tools               1 hr 35 mins        ████████████████████████░   97.07 % 
-MoeKoeMusic              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+late-tools               21 mins             ██████████████████████░░░   88.16 % 
+MoeKoeMusic              2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 操作系统: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +83,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 03:05:08 UTC
+ Last Updated on 11/10/2026 02:35:41 UTC
 <!--END_SECTION:waka-->
