@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
@@ -48,21 +48,18 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      3 hrs 23 mins       █████████████████████████   98.13 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Vue                      3 hrs 23 mins       █████████████████████████   99.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tools               3 hrs 24 mins       █████████████████████████   98.60 % 
-MoeKoeMusic              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+late-tools               3 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +81,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:00:13 UTC
+ Last Updated on 13/10/2026 04:15:27 UTC
 <!--END_SECTION:waka-->
