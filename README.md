@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦  使用了 99.5 kB GitHub 存储空间 
  > 
-> 🏆 590 个贡献，在 2026 年
+> 🏆 591 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -48,18 +48,21 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Vue                      3 hrs 23 mins       █████████████████████████   99.52 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Vue                      5 hrs 8 mins        ███████████████░░░░░░░░░░   61.64 % 
+JavaScript               3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-late-tools               3 hrs 24 mins       █████████████████████████   100.00 % 
+MoeKoeMusic              4 hrs 35 mins       ██████████████░░░░░░░░░░░   55.03 % 
+late-tools               3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
+api                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 操作系统: 
-Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,5 +84,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 04:15:27 UTC
+ Last Updated on 14/10/2026 02:28:13 UTC
 <!--END_SECTION:waka-->
