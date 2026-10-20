@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
@@ -48,21 +48,21 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               10 hrs 48 mins      ███████████████████░░░░░░   74.01 % 
-Vue                      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               14 hrs 27 mins      ███████████████░░░░░░░░░░   61.25 % 
+Vue                      5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Docker                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-MoeKoeMusic              14 hrs 15 mins      ████████████████████████░   97.63 % 
-api                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+MoeKoeMusic              23 hrs 16 mins      █████████████████████████   98.53 % 
+api                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 操作系统: 
-Windows                  14 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,5 +84,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 02:09:21 UTC
+ Last Updated on 20/10/2026 02:25:30 UTC
 <!--END_SECTION:waka-->
