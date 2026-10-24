@@ -3,7 +3,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -48,22 +48,22 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               15 hrs 33 mins      ████████████░░░░░░░░░░░░░   49.36 % 
-Vue                      6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-JSON                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown                 2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Docker                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               15 hrs 57 mins      ████████████░░░░░░░░░░░░░   49.90 % 
+Vue                      6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+JSON                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Markdown                 2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Docker                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 编辑器: 
-VS Code                  31 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-MoeKoeMusic              28 hrs 30 mins      ███████████████████████░░   90.48 % 
-PCL-CEX                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-MoeKoeMusicDocs          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+MoeKoeMusic              28 hrs 57 mins      ███████████████████████░░   90.61 % 
+PCL-CEX                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+MoeKoeMusicDocs          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 操作系统: 
-Windows                  31 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,5 +85,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 02:18:42 UTC
+ Last Updated on 24/10/2026 02:17:26 UTC
 <!--END_SECTION:waka-->
