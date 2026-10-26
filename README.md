@@ -3,17 +3,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-586.54%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-586.71%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 99.5 kB GitHub 存储空间 
  > 
-> 🏆 634 个贡献，在 2026 年
+> 🏆 641 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -24,21 +24,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     401 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-🌆 白天                     708 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
-🌃 傍晚                     714 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌙 晚上                     263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌞 早晨                     401 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+🌆 白天                     708 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌃 傍晚                     714 commits         █████████░░░░░░░░░░░░░░░░   34.15 % 
+🌙 晚上                     268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 ```
 📅 **星期二 时的我最有干劲** 
 
 ```text
-星期一                      253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-星期二                      406 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-星期三                      180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-星期四                      400 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-星期五                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-星期六                      217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-星期日                      331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+星期一                      258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+星期二                      406 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+星期三                      180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+星期四                      400 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+星期五                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+星期六                      217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+星期日                      331 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 ```
 
 
@@ -48,23 +48,23 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JavaScript               16 hrs 48 mins      ████████████░░░░░░░░░░░░░   49.76 % 
-Vue                      6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-JSON                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Markdown                 2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-YAML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               9 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.19 % 
+Vue                      6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+JSON                     2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 编辑器: 
-VS Code                  33 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-MoeKoeMusic              30 hrs 44 mins      ███████████████████████░░   90.99 % 
-PCL-CEX                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-MoeKoeMusicDocs          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-moekoe-simple-download   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+MoeKoeMusic              22 hrs 27 mins      ██████████████████████░░░   88.06 % 
+PCL-CEX                  1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+MoeKoeMusicDocs          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+moekoe-simple-download   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 操作系统: 
-Windows                  33 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,5 +86,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 02:03:36 UTC
+ Last Updated on 26/10/2026 02:04:43 UTC
 <!--END_SECTION:waka-->
