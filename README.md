@@ -48,24 +48,24 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-JavaScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-YAML                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JSON                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-PowerShell               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+TypeScript               3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+YAML                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+JSON                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+PowerShell               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-MoeKoeMusic              5 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   41.18 % 
-Authenticator            2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-mc-tools                 2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-FxxkWeChatAppEx          1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-avatar                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+MoeKoeMusic              4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
+Authenticator            2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+mc-tools                 2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+FxxkWeChatAppEx          1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+avatar                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 操作系统: 
-Windows                  12 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +87,5 @@ NSIS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 03:16:24 UTC
+ Last Updated on 31/10/2026 03:01:09 UTC
 <!--END_SECTION:waka-->
