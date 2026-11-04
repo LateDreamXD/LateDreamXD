@@ -23,8 +23,8 @@ jobs:
           # SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
-          # SYMBOL_VERSION: 3
-          BAR_STYLE: svg
-          BAR_RADIUS: 4
-          BAR_COLOR: "#ffb6c1"
-          BAR_TRACK_COLOR: "#8d4a6d"
+          SYMBOL_VERSION: 3
+          # BAR_STYLE: svg
+          # BAR_RADIUS: 4
+          # BAR_COLOR: "#ffb6c1"
+          # BAR_TRACK_COLOR: "#8d4a6d"
