@@ -3,17 +3,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2050%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-595.30%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 99.5 kB GitHub 存储空间 
  > 
-> 🏆 644 个贡献，在 2026 年
+> 🏆 649 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -23,50 +19,26 @@
  > 
 **我是早鸟 🐤** 
 
-```text
-🌞 早晨                     401 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-🌆 白天                     704 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌃 傍晚                     713 commits         █████████░░░░░░░░░░░░░░░░   34.16 % 
-🌙 晚上                     269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-```
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 早晨</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">402 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="69" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">19.24%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 白天</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">705 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="30" width="122" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">33.75%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 傍晚</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">713 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="54" width="123" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">34.13%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 晚上</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">269 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="78" width="46" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">12.88%</text></svg>
 📅 **星期二 时的我最有干劲** 
 
-```text
-星期一                      258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-星期二                      406 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-星期三                      181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-星期四                      399 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-星期五                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-星期六                      217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-星期日                      327 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-```
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">星期一</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">259 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="45" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">12.40%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">星期二</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">406 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="30" width="70" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">19.44%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">星期三</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">182 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="54" width="31" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">8.71%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">星期四</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">399 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="78" width="69" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">19.10%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">星期五</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">299 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="102" width="52" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">14.31%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">星期六</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">217 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="126" width="37" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">10.39%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">星期日</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">327 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="150" width="56" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">15.65%</text></svg>
 
 
 📊 **本周消耗时间** 
 
-```text
-🕑︎ 时区: Asia/Shanghai
-
 💬 编程语言: 
-TypeScript               3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.59 % 
-JSON                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-JavaScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-PowerShell               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">JavaScript</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">3 hrs 37 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="154" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">42.65%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">1 hr 56 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="30" width="82" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">22.87%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">YAML</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">1 hr 6 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="54" width="47" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">13.01%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 hr 4 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="78" width="45" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">12.60%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Vue</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">27 mins</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="102" width="19" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">5.40%</text></svg>
 
 🔥 编辑器: 
-VS Code                  10 hrs 15 mins      █████████████████████████   100.00 % 
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">8 hrs 29 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
 🐱‍💻 项目: 
-MoeKoeMusic              2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Authenticator            2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-mc-tools                 2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-FxxkWeChatAppEx          1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-avatar                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">MoeKoeMusic</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">5 hrs 42 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="242" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">67.20%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">mc-tools</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 36 mins</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="30" width="111" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">30.72%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">avatar</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">5 mins</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="54" width="4" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">1.10%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">koishi-app</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">4 mins</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="78" width="3" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">0.93%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">moekoe-simple-download</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">0 secs</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="102" width="0" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">0.06%</text></svg>
 
 💻 操作系统: 
-Windows                  10 hrs 15 mins      █████████████████████████   100.00 % 
-```
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Windows</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">8 hrs 29 mins</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="360" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
+
 
 🤖 **AI Coding This Week** 
 
@@ -76,16 +48,10 @@ No AI Coding Activity Tracked This Week
 
 **我最常使用 TypeScript** 
 
-```text
-TypeScript               28 repos            █████████░░░░░░░░░░░░░░░░   37.84 % 
-JavaScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Vue                      14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-NSIS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-```
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">TypeScript</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">28 repos</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="6" width="136" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">37.84%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">JavaScript</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">16 repos</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="30" width="78" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">21.62%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Vue</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">14 repos</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="54" width="68" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">18.92%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">HTML</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">6 repos</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="78" width="29" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">8.11%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">NSIS</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#8d4a6d"/><rect x="280" y="102" width="5" height="8" rx="4" fill="#ffb6c1"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">1.35%</text></svg>
 
 
 
 
- Last Updated on 01/11/2026 02:55:55 UTC
+ Last Updated on 2026/11/04 10:02:18 UTC
 <!--END_SECTION:waka-->
